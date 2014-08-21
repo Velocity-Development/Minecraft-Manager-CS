@@ -13,4 +13,4 @@ License Agrement:
   Safe use code aggrement is applied when coding for the Minecraft Manager CS application and a
   public read only aggrement is provided as proof of this.
 
-Minecraft Manager CS (c) 2014 by General Xbox Gaming
+Minecraft Manager CS © 2014 by General Xbox Gaming
